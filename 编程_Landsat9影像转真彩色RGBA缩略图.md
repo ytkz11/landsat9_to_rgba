@@ -1,19 +1,3 @@
----
-title: 编程 | Landsat9影像转真彩色RGBA缩略图
-top: false
-cover: 
-mathjax: false
-date: 2023-10-13 18:26:58
-author: ytkz
-img: https://cdn.jsdelivr.net/gh/ytkz11/picture/imgs202310101829437.png
-coverImg: 
-password:
-summary:
-hidden: false
-tags: [gdal] 
-categories: [gdal]     
----
-
 # Landsat 9 
 
 从USGS下载Landsat9影像，Landsat9影像和国产影像不一样的地方在于：
@@ -418,4 +402,6 @@ if __name__ == '__main__':
 
 
 
-如果对你有帮助，点赞是我最大的创作动力，
+如果对你有帮助，点赞是我最大的创作动力
+
+![image-20231010182504647](https://cdn.jsdelivr.net/gh/ytkz11/picture/imgs202310101829437.png)

@@ -1,3 +1,9 @@
+Welcome to give me the stars. ![Github stars](https://img.shields.io/github/stars/ytkz11/landsat9_to_rgba.svg) 
+
+:heartpulse:Thank you
+
+[中文翻译](https://github.com/ytkz11/landsat9_to_rgba/blob/master/%E7%BC%96%E7%A8%8B_Landsat9%E5%BD%B1%E5%83%8F%E8%BD%AC%E7%9C%9F%E5%BD%A9%E8%89%B2RGBA%E7%BC%A9%E7%95%A5%E5%9B%BE.md)
+
 # Landsat 9 
 
 Download Landsat9 images from USGS. Landsat9 images differ from domestic images in the following ways:
@@ -406,4 +412,4 @@ if __name__ == '__main__':
 
 If it helps, likes are my biggest creative motivator.
 
-![LC09_L2SP_044034_20220417_20220419_02_T1_SR_](D:\LC09_L2SP_044034_20220417_20220419_02_T1_SR_.png)
+![image-20231010182504647](https://cdn.jsdelivr.net/gh/ytkz11/picture/imgs202310101829437.png)
